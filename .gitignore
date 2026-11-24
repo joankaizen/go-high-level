@@ -1,0 +1,10 @@
+.env
+data/
+__pycache__/
+
+# secretos y datos locales
+.env*
+!.env.example
+backups/
+.claude/settings.local.json
+.DS_Store
